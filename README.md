@@ -6,7 +6,8 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 - 🌱 I’m currently learning **HTML,CSS and Javascript**
 
-## 📫 Let's Connect!
+#### 📫 Let's Connect!
+
 
 - 🔗 **Portfolio:** [https://portfolio-shivendra.netlify.app/]
 - 🐦 **Twitter:** [https://x.com/Shivendra0712]
@@ -14,7 +15,10 @@
 - 📧 **Email:** shivendrapatel01250@gmail.com
 
 
-## 🛠 Tech Stack
+
+
+
+#### 🛠 Tech Stack
 
  **Frontend:** React.js, Next.js, Redux, Context API, Tailwind CSS
  **Backend:** Node.js, Express.js, RESTful APIs, WebSockets
@@ -23,7 +27,8 @@
  **Payment Integrations:** Razorpay
  **Other Skills:** GSAP (for animations)
 
-## 🔥 What I Do
+
+#### 🔥 What I Do
 
 ✅ Develop **full-stack applications** using the MERN stack  
 ✅ Build **high-performance and scalable** web applications  
